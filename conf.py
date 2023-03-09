@@ -1,0 +1,1 @@
+WORD_LIST_FILE_PATH = "password_list.txt"
